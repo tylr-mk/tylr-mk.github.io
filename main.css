@@ -29,6 +29,29 @@ h1 {font-size: 18px;
 	font-weight: 600px;
 	color: #1E08FF;}
 
-h1 {font-size: 14px;
+p {font-size: 14px;
 	font-weight: 400px;
 	color: #8C8973;}
+
+/*colours
+Blue Shades:
+22,6,191 #1606BF
+14,5,127 #0E057F
+30,8,255, #1E08FF
+7,2,64 #070240
+27,7,229 #1B07E5
+
+Greens:
+47,204,27 #2FCC1B
+24,178,14 #18B20E
+
+Approval: 27,204,123 #1BCC7B
+Warning: 229, 102, 0 #E56600
+Inactve: 178,174,146 #B2AE92
+Red: 217,53,28 #D9351C
+Wait: 204,27,145 #CC1B91
+
+Greys: 
+76, 74, 63 #4C4A3F
+140, 137, 115 #8C8973
+*/
