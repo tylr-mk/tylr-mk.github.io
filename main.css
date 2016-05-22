@@ -27,11 +27,15 @@ h1, p {font-family: 'Open Sans',Arial,serif;}
 
 h1 {font-size: 18px;
 	font-weight: 600px;
-	color: #1E08FF;}
+	color: #1E08FF;
+	line-height:1.2;}
 
+h1::first-letter{font-size:24px;}
 p {font-size: 14px;
 	font-weight: 400px;
 	color: #8C8973;}
+
+p::first-line {color: #4C4A3F;}
 
 /*colours
 Blue Shades:
