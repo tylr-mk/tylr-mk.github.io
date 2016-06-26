@@ -30,5 +30,3 @@ SUB
  :: Contact
  :: Terms & Conditions
 
- Just checking how to Git properly etc.
- 
