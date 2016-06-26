@@ -30,4 +30,8 @@ SUB
  :: Contact
  :: Terms & Conditions
 
-hopefully this is cool
+<<<<<<< HEAD
+That was cool
+=======
+Cocks and beans
+>>>>>>> local_amends

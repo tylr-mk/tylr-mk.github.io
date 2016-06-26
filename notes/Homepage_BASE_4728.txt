@@ -30,4 +30,3 @@ SUB
  :: Contact
  :: Terms & Conditions
 
-hopefully this is cool
